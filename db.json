@@ -3,31 +3,31 @@
       {
         "id": 1,
         "user_avatar": "url",
-        "user_name": "Username 1"
+        "user_name": "Username 1",
         "image": "url"
       },
       {
         "id": 2,
         "user_avatar": "url",
-        "user_name": "Username 2"
+        "user_name": "Username 2",
         "image": "url"
       },
       {
         "id": 3,
         "user_avatar": "url",
-        "user_name": "Username 3"
+        "user_name": "Username 3",
         "image": "url"
       },
       {
         "id": 4,
         "user_avatar": "url",
-        "user_name": "Username 4"
+        "user_name": "Username 4",
         "image": "url"
       },
       {
         "id": 5,
         "user_avatar": "url",
-        "user_name": "Username 5"
+        "user_name": "Username 5",
         "image": "url"
       }
   ]
