@@ -30,5 +30,8 @@
         "user_name": "Username 5",
         "image": "url"
       }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
